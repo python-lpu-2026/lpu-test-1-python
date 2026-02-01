@@ -1,5 +1,5 @@
 """
-Find Second Highest Number
+Q2. Find Second Highest Number
 
 Write a function:
 def second_highest(nums):
